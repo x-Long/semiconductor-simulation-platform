@@ -25,7 +25,10 @@
 
 
 ## 二、运行
-```bash
+
+```sh
+pip instaall -r requirements.txt
+
 python run.py
 ```
 
