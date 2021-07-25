@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="pn">
+    <file>pic/bgpic.png</file>
+    <file>pic/BJT1.png</file>
+    <file>pic/PN结.png</file>
+    <file>pic/logo.png</file>
+    <file>pic/www.png</file>
+  </qresource>
+</RCC>

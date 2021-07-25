@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="pn">
+    <file>pic/logo.png</file>
+    <file>pic/www.png</file>
+  </qresource>
+</RCC>
